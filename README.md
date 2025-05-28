@@ -1,2 +1,2 @@
 print("hello world");
-print("How are you");
+print("ok, hello world");
